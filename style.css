@@ -50,3 +50,15 @@ img {
 .carrousel_btn-apres {
     right: 0;
 }
+
+
+/* Liste de liens */
+
+.carrousel_liste-liens {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 1rem;
+}
