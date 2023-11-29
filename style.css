@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.carrousel_parent-ecrans {
+    display: flex;
+    width: 100%;
+}
+.carrousel_ecran {
+    width: 100%;
+    flex: none;
+}
+.carrousel_ecran figure {
+    margin: 0;
+}
